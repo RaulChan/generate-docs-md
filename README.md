@@ -6,7 +6,7 @@ Plantilla de Pandoc Latex basada en la plantilla [Eisvogel](https://github.com/W
 
 1.- Sistema operativo basado en Linux. \
 2.- Pandoc. \
-3.- LaTex (Recomendado TeX Live). \
+3.- LaTex (Recomendado TeX Live).
 
 # Instrucciones:
 
